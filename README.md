@@ -47,3 +47,4 @@ My goal is to grow both academically and physically — balancing data science w
 - Email: yourname@example.com  
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
 - Portfolio: [Your Website](https://your-portfolio-link.com)
+
