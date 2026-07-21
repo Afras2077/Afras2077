@@ -8,6 +8,7 @@
 ## ⚡ About Me
 Curious by nature, I enjoy solving problems with code and statistics.  
 My goal is to grow academically and reach new heights.
+I pursue graphic design and digital art as a hobby.
 
 ---
 ## 🛠 Tech Arsenal
@@ -24,6 +25,8 @@ My goal is to grow academically and reach new heights.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0f?logo=mathworks&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+
 
 
 
