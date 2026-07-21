@@ -7,8 +7,9 @@
 
 ## ⚡ About Me
 Curious by nature, I enjoy solving problems with code and statistics.  
-My goal is to grow academically and reach new heights.
-I pursue graphic design and digital art as a hobby.
+My goal is to grow academically and reach new heights.  
+I pursue graphic design and digital art as a hobby.  
+
 
 ---
 ## 🛠 Tech Arsenal
