@@ -1,16 +1,5 @@
 <p align="center">
-  <!-- Name stays white on black -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=55&duration=4000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Afras+Shahnawaz" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- Data Science line in yellow -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FFFF00&background=000000&center=true&vCenter=true&width=800&height=60&lines=Data+Science+Student" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- Digital Art line in purple -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=800080&background=000000&center=true&vCenter=true&width=800&height=60&lines=Digital+Artist+%7C+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=55&duration=4000&color=BA55D3&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer" alt="Typing SVG" />
 </p>
 
 🎓 3rd-year Data Science student at FAST Lahore  
@@ -47,3 +36,4 @@ I pursue graphic design and digital art as a hobby.
 - Email: afrasshahnawaz123@gmail.com  
 - LinkedIn: [Afras Shahnawaz](https://www.linkedin.com/in/afras-shahnawaz-3a314936a)  
 - Portfolio: [portfolio-website](https://portfolio-website-chi-lyart-43.vercel.app)
+
