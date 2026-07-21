@@ -7,7 +7,7 @@
 
 ## ⚡ About Me
 Curious by nature, I enjoy solving problems with code and statistics.  
-My goal is to grow both academically and reach new heights.
+My goal is to grow academically and reach new heights.
 
 ---
 ## 🛠 Tech Arsenal
