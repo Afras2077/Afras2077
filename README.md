@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer" alt="Typing SVG" />
 </p>
 
 🎓 3rd-year Data Science student at FAST Lahore  
