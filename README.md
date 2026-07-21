@@ -27,7 +27,7 @@ My goal is to grow both academically and reach new heights.
 ---
 
 ## 🌐 Connect With Me
-- Email: yourname@example.com  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [Your Website](https://your-portfolio-link.com)
+- Email: afrasshahnawaz123@gmail.com 
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/afras-shahnawaz-3a314936a)  
+- Portfolio: [Your Website](portfolio-website-chi-lyart-43.vercel.app)
 
