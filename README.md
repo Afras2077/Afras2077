@@ -1,5 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=55&duration=4000&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer&color=FFFF00&color2=800080" alt="Typing SVG" />
+  <!-- Name stays white on black -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=55&duration=4000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Afras+Shahnawaz" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Data Science line in yellow -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FFFF00&background=000000&center=true&vCenter=true&width=800&height=60&lines=Data+Science+Student" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Digital Art line in purple -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=800080&background=000000&center=true&vCenter=true&width=800&height=60&lines=Digital+Artist+%7C+Designer" alt="Typing SVG" />
 </p>
 
 🎓 3rd-year Data Science student at FAST Lahore  
