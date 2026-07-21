@@ -30,6 +30,6 @@ My goal is to grow academically and reach new heights.
 
 ## 🌐 Connect With Me
 - Email: afrasshahnawaz123@gmail.com 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/afras-shahnawaz-3a314936a)  
-- Portfolio: [Your Website](portfolio-website-chi-lyart-43.vercel.app)
+- LinkedIn: https://www.linkedin.com/in/afras-shahnawaz-3a314936a  
+- Portfolio: portfolio-website-chi-lyart-43.vercel.app
 
