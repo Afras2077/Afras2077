@@ -7,7 +7,6 @@
 
 ## ⚡ About Me
 Curious by nature, I enjoy solving problems with code and statistics.  
-Currently working on fraud detection datasets, regression scripts, and learning model selection techniques.  
 My goal is to grow both academically and reach new heights.
 
 ---
