@@ -1,7 +1,9 @@
-# Afras Shahnawaz
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer" alt="Typing SVG" />
+</p>
 
 🎓 3rd-year Data Science student at FAST Lahore  
-💻 Exploring Python, statistics, and databases
+💻 Exploring Python, statistics, and databases  
 
 ---
 
@@ -10,8 +12,8 @@ Curious by nature, I enjoy solving problems with code and statistics.
 My goal is to grow academically and reach new heights.  
 I pursue graphic design and digital art as a hobby.  
 
-
 ---
+
 ## 🛠 Tech Arsenal
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
@@ -28,15 +30,9 @@ I pursue graphic design and digital art as a hobby.
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0f?logo=mathworks&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 
-
-
-
-
-
 ---
 
 ## 🌐 Connect With Me
-- Email: afrasshahnawaz123@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/afras-shahnawaz-3a314936a  
-- Portfolio: portfolio-website-chi-lyart-43.vercel.app
-
+- Email: afrasshahnawaz123@gmail.com  
+- LinkedIn: [Afras Shahnawaz](https://www.linkedin.com/in/afras-shahnawaz-3a314936a)  
+- Portfolio: [portfolio-website](https://portfolio-website-chi-lyart-43.vercel.app)
