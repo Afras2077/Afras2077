@@ -1,8 +1,7 @@
 # Hi, I'm Afras 👋
 
 🎓 3rd-year Data Science student at FAST Lahore  
-💻 Exploring Python, regression analysis, and linear algebra  
-🏋️ Focused on fitness and building strength through home workouts  
+💻 Exploring Python, statistics, and databases
 🎮 Love story-driven, atmospheric video games  
 🎬 Big fan of intense, thought‑provoking films  
 
@@ -22,24 +21,6 @@ My goal is to grow both academically and physically — balancing data science w
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Afras' GitHub stats](https://github-readme-stats.vercel.app/api?username=Afras2077&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afras2077&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-![Contribution Snake](https://github.com/Afras2077/Afras2077/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects
-- [Fraud Detection Analysis](https://github.com/Afras2077/fraud-detection)  
-- [Backward Elimination Regression](https://github.com/Afras2077/regression-project)  
-- [Linear Algebra Transformations](https://github.com/Afras2077/linear-algebra)
 
 ---
 
