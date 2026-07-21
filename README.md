@@ -10,10 +10,9 @@
 ## ⚡ About Me
 Curious by nature, I enjoy solving problems with code and statistics.  
 Currently working on fraud detection datasets, regression scripts, and learning model selection techniques.  
-My goal is to grow both academically and physically — balancing data science with fitness.
+My goal is to grow both academically and reach new heights.
 
 ---
-
 ## 🛠 Tech Arsenal
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -21,6 +20,8 @@ My goal is to grow both academically and physically — balancing data science w
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
 
 ---
 
