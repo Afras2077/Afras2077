@@ -1,4 +1,4 @@
-# Hi, I'm Afras 👋
+# Afras Shahnawaz
 
 🎓 3rd-year Data Science student at FAST Lahore  
 💻 Exploring Python, statistics, and databases
@@ -21,6 +21,8 @@ My goal is to grow academically and reach new heights.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0f?logo=mathworks&logoColor=white)
+
 
 
 
