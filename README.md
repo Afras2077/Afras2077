@@ -2,8 +2,6 @@
 
 🎓 3rd-year Data Science student at FAST Lahore  
 💻 Exploring Python, statistics, and databases
-🎮 Love story-driven, atmospheric video games  
-🎬 Big fan of intense, thought‑provoking films  
 
 ---
 
