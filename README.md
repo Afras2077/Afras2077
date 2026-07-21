@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=55&duration=4000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=55&duration=4000&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Afras+Shahnawaz;Data+Science+Student;Digital+Artist+%7C+Designer&color=FFFF00&color2=800080" alt="Typing SVG" />
 </p>
 
 🎓 3rd-year Data Science student at FAST Lahore  
@@ -36,4 +36,3 @@ I pursue graphic design and digital art as a hobby.
 - Email: afrasshahnawaz123@gmail.com  
 - LinkedIn: [Afras Shahnawaz](https://www.linkedin.com/in/afras-shahnawaz-3a314936a)  
 - Portfolio: [portfolio-website](https://portfolio-website-chi-lyart-43.vercel.app)
-
